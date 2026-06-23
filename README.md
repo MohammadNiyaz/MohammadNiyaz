@@ -42,8 +42,8 @@ through my internship at NewtonAI Technology.
 ## Certifications & Learning
 
 - 🟩 TryHackMe — Jr Penetration Tester Path *(in progress)*
-- 🎯 CEH — *(pursuing)*
-- 🏆 NewtonAI Technology — Cybersecurity Internship (2025)
+- 🎯 "CEH | ECC2386579041"
+- 🏆 NewtonAI Technology — Cybersecurity Internship (2026)
 
 ---
 
